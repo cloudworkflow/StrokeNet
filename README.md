@@ -14,7 +14,7 @@ pip install keras==2.3.1
 
 ### 2. Contact the corresponding author to get the datasets and feature sets.
 
-### 3. Reproduced results (multimodal) can be found in saved_models_st\bak.
+### 3. Reproduced results (multimodal) can be found in saved_models_st/bak.
 
 
 
