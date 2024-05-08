@@ -1,5 +1,5 @@
 # StrokeNet
-## Demo code for "Xu, W.#, Lin, J.#, Gao, M.#, Chen, Y., Cao, J., Pu, J., Huang, L.*, Zhao, J.*, & Qian, K.* (2020). Rapid computer aided diagnosis of stroke by serum metabolic fingerprint based multi-modal recognition. Advanced Science, 7(21), 2002021."
+## Demo code for "Xu, W.#, Lin, J.#, Gao, M.#, Chen, Y., Cao, J., Pu, J., Huang, L.*, Zhao, J.*, & Qian, K.* (2020). Rapid computer-aided diagnosis of stroke by serum metabolic fingerprint based multi-modal recognition. Advanced Science, 7(21), 2002021."
 
 ### 1. How to setup the env:
 ```
